@@ -8,17 +8,19 @@
 </a>
 
 <p align="center">
-  Building high-impact technology for students and systems administrators.<br>
-  Founder of <b>4Students</b> — a campus ecosystem funded by <b>SSIP (Student Start-up & Innovation Policy)</b>,<br>
-  available on Google Play and at <b><a href="https://4students.in">4students.in</a></b>.
+  Building high-impact technology for students, competitive exam aspirants, and sysadmins.<br>
+  Founder of <b>4Students</b> (SSIP-Funded Campus Startup) & Creator of <b><a href="https://gomock.in">gomock.in</a></b> (Gujarat Govt Exam Platform).
 </p>
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.fourstudents.app">
-    <img src="https://img.shields.io/badge/Google_Play-Live_App-4285F4?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
+    <img src="https://img.shields.io/badge/Google_Play-4Students-4285F4?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
   </a>
   <a href="https://4students.in">
     <img src="https://img.shields.io/badge/Website-4students.in-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="4students.in" />
+  </a>
+  <a href="https://gomock.in">
+    <img src="https://img.shields.io/badge/Platform-gomock.in-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="gomock.in" />
   </a>
   <img src="https://img.shields.io/badge/Funded_by-SSIP_Gujarat-FF6F00?style=for-the-badge&logo=award&logoColor=white" alt="SSIP Funded" />
 </p>
@@ -89,17 +91,21 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎯 <a href="https://github.com/vishv3010/GoMock">GoMock</a></h3>
-      <p><b>Interactive Online Mock Test & Competitive Exam Engine.</b></p>
+      <h3>🎯 <a href="https://gomock.in">GoMock</a> <i>(<a href="https://gomock.in">gomock.in</a>)</i></h3>
+      <p><b>Online Mock Exam & Test Preparation Platform for Gujarat Government Exams.</b></p>
       <ul>
-        <li>Real-time timed examination simulations with sectional scorecards.</li>
-        <li>Progressive Web App (PWA) with offline caching and Android build.</li>
-        <li>Automated Telegram study and daily quiz bot dispatch.</li>
+        <li>Tailored for Gujarat state competitive exams (<b>GPSC, GSSSB, CCE, DySO, Forest Guard, Police</b>).</li>
+        <li>Real-time timed examination simulations with Gujarati/English bilingual tests and negative marking.</li>
+        <li>Progressive Web App (PWA) with offline caching, instant scorecards, and native Android app build.</li>
+        <li>Automated Telegram bots dispatching daily quizzes and study materials to aspirants.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+        <a href="https://gomock.in">
+          <img src="https://img.shields.io/badge/Live_Site-gomock.in-F59E0B?style=flat-square&logo=google-chrome&logoColor=white" />
+        </a>
+        <a href="https://github.com/vishv3010/GoMock">
+          <img src="https://img.shields.io/badge/Code-GoMock-339933?style=flat-square&logo=github&logoColor=white" />
+        </a>
       </p>
     </td>
   </tr>
