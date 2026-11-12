@@ -5,8 +5,10 @@ mirofish/
 *.bundle
 *.patch
 patches/
+external-simulation-reports/
 
 # OS / Editor artifacts
 .DS_Store
 Thumbs.db
+
 
