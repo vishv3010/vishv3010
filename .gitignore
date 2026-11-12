@@ -4,7 +4,9 @@ mirofish/
 # Git bundle and patch files
 *.bundle
 *.patch
+patches/
 
 # OS / Editor artifacts
 .DS_Store
 Thumbs.db
+
