@@ -1,0 +1,10 @@
+# Local subprojects / tool workspaces
+mirofish/
+
+# Git bundle and patch files
+*.bundle
+*.patch
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
